@@ -5,7 +5,7 @@ def table_end():
 	return "\n\n</table>"
 
 def row_start():
-	return "<tr>\n"    #<<<naprawic funkcji!
+	return "<tr>\n"
 
 def row_end():
 	return "</tr>\n"
